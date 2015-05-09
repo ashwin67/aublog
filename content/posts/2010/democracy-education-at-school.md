@@ -1,0 +1,42 @@
+title: Democracy education at school
+link: http://www.ashwinupadhyaya.com/2010/democracy-education-at-school/
+author: ashwin67
+description: 
+post_id: 623
+created: 2010/02/02 13:06:56
+created_gmt: 2010/02/02 07:36:56
+comment_status: open
+post_name: democracy-education-at-school
+status: publish
+post_type: post
+
+# Democracy education at school
+
+The problems we see today are a result of the mistakes of the past. So, it seems natural to me that today's solutions should be directed at the future. The disregard for environment, the cynicism about government, the skepticism about democracy all seem like the result of a vicious feedback cycle of negative thought.
+
+This week at Vidyavardhaka school, I was trying to understand how 12 year old students perceived government. The majority of them think that government won't do anything good! Without any experience, if these children can have cynicism about the government, then it actually reflects on us. Any system is only as good as the belief people have in that system. If we lose belief, we start propagating negative air among everyone including children and the whole system fails. I needed to  change this in at least a small way and gave the kids an exercise.
+
+I discussed an issue which each one of them knew. The issue I took was the cutting of lalith mahal road trees in Mysore. The students read a newspaper article in the classroom. Then, I explained them how a democracy works and how we are responsible for its upkeep. I then explained the various departments, ministries in a government and finally asked the children to write letters to anyone they seemed fit to receive the letter. Here is the result of the exercise. 
+
+An interesting thing I noted is how many of them had addressed the letter to Manivannan! I never even mentioned his name to the children before the class. It shows how one person can inspire confidence in so many others.
+
+The exercise does not end here. If possible, I want to get these children to meet  people from the government and understand how it works. Only when you have the belief that democracy with all its flaws can still work, you will do justice to it. And this belief needs to be instilled at a young age.
+
+## Comments
+
+**[deepthi](#133 "2010-02-02 14:51:38"):** Hey that was a wonderful activity you did, I was awestruck to read those letters from kids who have such powerful thoughts to save our environment. These are our future makers and just hope they retain this attitude as they grow up too.
+
+**[Ashwin](#134 "2010-02-02 16:13:05"):** Super inspiring. I am pretty sure atleast one of them will be someday, somewhere do something significant for making things better! Can u send me the letters please. I cant read them as Its a slideshow. Practical problem.
+
+**[ashwin](#135 "2010-02-02 16:27:08"):** @deepthi: They will retain that attitude provided they are not sucked up in the negative talk that usually happens.. "that doesn't work", "the government doesn't care" etc. Even if these are true to some extent, such talk can create really bad consequences on the children. To see the full scale images, please click on the slideshow to open picasaweb. You can download them if you want from there.
+
+**[Shrivatsa](#136 "2010-02-03 10:06:55"):** That was a really commendable activity done by you. It is amazing to see and appreciate what can be achieved if we don't base our decisions on a cynical or negative mindset.
+
+**[Shrivatsa](#137 "2010-02-03 10:23:37"):** In the same vein, check this out http://www.youtube.com/watch?v=7Y2sj_G4Njg.
+
+**[ashwin](#138 "2010-02-03 20:21:06"):** Shrivatsa, Thanks for that link. It inspires me to do more.
+
+**[s](#139 "2010-02-04 04:32:29"):** wow dude!
+
+**[wineye](#140 "2010-02-05 12:48:44"):** Hats off to you !! Its a very important point that you have brought out so wonderfully. we all should do our bit to change this perception. even if its in a small way. Great Job !! Keep it going !!
+

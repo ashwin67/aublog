@@ -1,0 +1,15 @@
+title: Polar Bear
+link: http://www.ashwinupadhyaya.com/2008/polar-bear/
+author: ashwin67
+description: 
+post_id: 9
+created: 2008/01/12 22:02:00
+created_gmt: 2008/01/12 16:32:00
+comment_status: open
+post_name: polar-bear
+status: publish
+post_type: post
+
+# Polar Bear
+
+Every year, the polar bear goes into a state of hibernation during the harsh winter of the Arctic. When it wakes up in summer after the 4 month sleep, it weighs only half as much as it was before sleeping. To regain its past strength and weight, the polar bear sets out on a journey over thin sea ice hunting for seals. Wherever the ice is broken, seals come out of the water looking for air to breathe. The polar bear feasts on this opportunity and hence is able to rule over the vast arctic. This year, the bears are still sleeping. When they wake up, they will follow the same procedure walking over dangerously thin ice distributing their weight by spreading their legs wide so that the ice does not break. But this year too, as in a recent few years, many polar bears will venture into the ice for a last time. The ice is melting rather too soon because of rising global temperatures and as a result, seals are hard to find. Some of the polar bears out of hunger and desperation venture out too far into the sea and reach a point of no return. In recent years, they have been seen swimming 60 miles south of their home in deep oceans. Obviously, you can guess its fate. The bear is not without friends who share the same fate. The Bengal tiger in the Sunderbans is one more who fills the list of future homeless animals. The last few Asiatic lions, mountain gorillas and pandas all struggle for their piece of land on earth. I sometimes think that we may already have crossed the tipping point of this reckless destruction fellow humans have caused. Yet, a tiny amount of hope convinces me that we can still do something and not join the list of those who robbed the planet of its beauty. Hope is a good thing and good things don't die. But if new hope is to be born among more people, action is required. And the action should be from me and you.

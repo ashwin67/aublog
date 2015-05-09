@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
+	<link rel=stylesheet type=text/css href="/static/style.css">
+    Mobile App to detect (and then warn about) speed bumps, 2013/03/13 19:58:12
+</head>
+<body>
+<div>
+<h1>Mobile App to detect (and then warn about) speed bumps</h1>
+<p>As part of my MS project, I have been working on an android app that can detect and subsequently predict speed bumps. Although it is still a work in progress, I was able to get the detection part to work. Following image shows the speed bumps when travelling from Bangalore to Mysore:<img alt="Speed Bumps from Bangalore to Mysore" src="https://lh6.googleusercontent.com/-gBMvpQr0KXk/UUCI3druNQI/AAAAAAAACT4/6wlAE_-gf8I/s1157/bangalore_to_mysore_bumps.png" /> Based on GPS data and accelerometer data from my android app, I could detect using R scripts (run offline) if a bump has occurred at any point in time. These were then plotted over a lat-long map. Google maps integration is still not done. So, I have just overlaid my image over google maps using gimp. Next target is to upload the data points to a server running Python scripts to create a database of speed bumps. For me, the motivation to do this is simple. Speed bumps on highways are just frustrating. If a database of such speed bumps exists, then it is easy to get warnings on the phone based on GPS location. Building the database is the tough part.</p>
+</div>
+</body>
+</html>

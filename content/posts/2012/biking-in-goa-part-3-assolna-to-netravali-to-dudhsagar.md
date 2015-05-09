@@ -1,0 +1,40 @@
+title: Biking in Goa - Part 3 - Assolna to Netravali to Dudhsagar
+link: http://www.ashwinupadhyaya.com/2012/biking-in-goa-part-3-assolna-to-netravali-to-dudhsagar/
+author: ashwin67
+description: 
+post_id: 939
+created: 2012/01/05 14:19:11
+created_gmt: 2012/01/05 08:49:11
+comment_status: open
+post_name: biking-in-goa-part-3-assolna-to-netravali-to-dudhsagar
+status: publish
+post_type: post
+
+# Biking in Goa - Part 3 - Assolna to Netravali to Dudhsagar
+
+Goa.. One tends to think only of the warm and beautiful beaches. 
+
+Wednesday morning, we decamped from Assolna football grounds and started our ride to Netravali. This stretch involves a few uphill and downhill rides and almost most of the ride is on good roads. The road winds through a few mining areas as well as through a few sparse forests.
+
+The expedition although arranged by the youth hostel is not just for the 'youth'. It is actually for those who are young in their heart. We had our doctor uncle who rode all along with us and he was much faster than a few of us.  He was no less than 50 years. On the way, an old couple from the west and probably in their sixties stopped by and challenged us. Even the best cyclist among us (definitely less than half their age) could not keep up with them for more than a few kilometers. Age probably is just a state of the mind.
+
+![Assolna-Netravali](https://lh3.googleusercontent.com/-iY4PZFGBoSc/Tvbh9Li86fI/AAAAAAAAB5A/yVYOuXkHR9w/s912/SAM_1332.JPG)
+
+[Netravali ](http://en.wikipedia.org/wiki/Netravali)is just a place on the way to somewhere else. Of course, there is a small Budbudem lake where bubbles keep coming up from the bottom of the pond (probably, that's why the name Budu-Budu-em). We stayed at Tanshikar's spice farm where they serve some authentic coastal vegetarian food. In the morning, we got off on our journey towards Dudhsagar. The route for most of the part was like the previous day, through forests and mining areas. Our map indicated one of the sections as "red road". It was easy to see why. So many trucks carrying mineral ore had actually turned the road red. The uphill climbs, the non-cooperating guides, a few wrong turns and finally we were at Collem. From here, we were to take the off road trail into the forest. Youth hostel has special permission to stay in the forest and this stretch is the best part of the entire trip.
+
+Roads. Every downhill ride like its name is not the most welcome. The first few seconds into the downhill is always enjoyable. The sweeping wind, the sense of power, the numbing of the mind. Before the end, the uphill shows itself. And then, the joy is gone. The sound of speed is replaced by the pounding of the heart beat. Trance is left behind and determination takes its place. Just pedal, pedal and pedal.
+
+![Netravali-Dudhsagar](https://lh6.googleusercontent.com/-VSXbRYFN9ZM/Tvbh_lU5OmI/AAAAAAAAB5Y/mfaBUSM8Pt8/s912/SAM_1447.JPG)
+
+The trail to Dudhsagar (pictures in next post) from Collem winds through pretty thick forest. We crossed a few rivers on the way, climbed up a few steep sections on very low gears, fixed up our broken chains several times and finally reached camp at around 3-4PM.  The camp is by the Dudhsagar river and we freshened up there. The camp leader made sure that we had food at designated times and in return we followed the set rules. After a photo pose in front of the Dudhsagar waterfalls, we came back to camp, had dinner and had a good nights sleep. Before, in the evening, the eligible bachelors in the camp were trying their luck as the trekking group which had also camped there had a much better population ratio (Ours was 15:0).
+
+[Wandering, one gathers honey](www.yhaindia.org). We wander from home to work, work to home, town to city, city to somewhere else. What does one gather here? What do we gather in those forests, beaches and rivers? Why do the bees need honey?
+
+![Dudhsagar, train and Ashwin](https://lh3.googleusercontent.com/-QVHMFstBE-o/TvbiE1HVzzI/AAAAAAAAB54/D5weUL6BQy4/s912/SAM_1498.JPG)
+
+To be continued...
+
+  1. [Biking in Goa - Part 1 - At Panjim](http://ashwinupadhyaya.com/blog/2011/biking-in-goa-part-1/)
+  2. [Biking in Goa - Part 2 - Panjim to Assolna]( http://ashwinupadhyaya.com/blog/2011/biking-in-goa-–-part-2/)
+  3. [Biking in Goa - Part 3 - Assolna to Netravali to Dudhsagar](http://ashwinupadhyaya.com/blog/2012/biking-in-goa-part-3-assolna-to-netravali-to-dudhsagar/)
+  4. [Biking in Goa – Part 4 – Dudhsagar to Bondla to Panjim](http://ashwinupadhyaya.com/blog/2012/biking-in-goa-%E2%80%93-part-4-%E2%80%93-dudhsagar-to-bondla-to-panjim/)
